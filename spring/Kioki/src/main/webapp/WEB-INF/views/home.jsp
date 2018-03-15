@@ -9,10 +9,10 @@
 	Hello world!  
 </h1>
 
-<P>  hello ${serverTime}</P>
-<h1> hello universe</h1>
-<h1> hello universe</h1>
-<h1> hello universe</h1>
+<!-- empty table -->
+<table>
+
+</table>
 
 </body>
 </html>
